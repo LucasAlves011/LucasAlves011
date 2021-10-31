@@ -3,8 +3,8 @@
 
 - 👨‍💻 Em busca do primeiro emprego.
 - ⌨️ Aprendendo mais e mais sobre **Java** <img align="center" alt="Java" height="25" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  e o universo **Spring** <img  align="center" alt="Spring" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
-- 📚 Estudante de Ciência da Computação na UFRPE.
-- 😌 Usando Ubuntu há 2 semanas e a cada dia que passa eu vou mais me apegando ao pinguinzinho. <img  align="center" alt="Spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"> 
+- 📚 Estudante de Ciência da Computação na UFRPE e de Análise e desenvolvimento de sistema no SENAC.
+- 😌 Usando ubuntu a um tempinho e a cada dia que passa eu vou mais me apegando ao pinguinzinho. <img  align="center" alt="Spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"> 
 - Você pode me contatar por lucas.nascimento.al16@gmail.com
 - ⚡ Fun fact: Eu não sou muito fã de café **☕** 🚫
    
@@ -30,8 +30,9 @@
  <img align="center" alt="javaS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp&nbsp&nbsp
 <img align="center" alt="css3" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> &nbsp&nbsp&nbsp
 <img align="center" alt="html5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> &nbsp&nbsp&nbsp
-<img align="center" alt="nodejs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> &nbsp&nbsp&nbsp&nbsp
-<img align="center" alt="angular" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
+<img align="center" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> &nbsp&nbsp&nbsp&nbsp
+<img align="center" alt="django" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"> &nbsp&nbsp&nbsp
+ <img align="center" alt="react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> 
 
 </div>
 <br>
