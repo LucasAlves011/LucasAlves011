@@ -3,7 +3,7 @@
 
 - 👨‍💻 Em busca do primeiro emprego.
 - ⌨️ Aprendendo mais e mais sobre **Java** <img align="center" alt="Java" height="25" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  e o universo **Spring** <img  align="center" alt="Spring" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
-- 📚 Estudante de Ciência da Computação na UFRPE e de Análise e desenvolvimento de sistema no SENAC.
+- 📚 Estudante de Ciência da Computação na UFRPE.
 - 😌 Usando ubuntu a um tempinho e a cada dia que passa eu vou mais me apegando ao pinguinzinho. <img  align="center" alt="Spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"> 
 - Você pode me contatar por lucas.nascimento.al16@gmail.com
 - ⚡ Fun fact: Eu não sou muito fã de café **☕** 🚫
