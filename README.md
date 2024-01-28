@@ -11,7 +11,7 @@
   
   <a href="https://github.com/LucasAlves011">
   <!--<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasAlves011&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">  NÃO GOSTEI MUITO, MAS POSSO COLOCAR DE VOLTA NO FUTURO-->
- <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlves011&layout=compact&langs_count=7&theme=gotham&">  <br> 
+ <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlves011&layout=compact&langs_count=10&theme=gotham&">  <br> 
    
  ***
    ### Minhas principais tecnologias: 
@@ -21,6 +21,9 @@
    <img align="center" alt="Spring" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
  &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
    <img align="center" alt="MySql" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+   &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+   <img align="center" alt="MySql" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+             
    
 </div>  
    
