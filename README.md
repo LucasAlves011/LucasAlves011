@@ -1,4 +1,4 @@
-# eae 👋, Lucas Alves no mic. 🎤
+# eae 👋, me chamo Lucas Alves.
 
 
 - 👨‍💻 Desenvolvedor JAVA, PL/SQL na MV.
