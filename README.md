@@ -35,8 +35,9 @@
 <img align="center" alt="html5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> &nbsp&nbsp&nbsp
 <!-- <img align="center" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> &nbsp&nbsp&nbsp&nbsp --->
 <!--<img align="center" alt="django" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"> &nbsp&nbsp&nbsp --->
- <img align="center" alt="react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> &nbsp&nbsp&nbsp
-
+ <img align="center" alt="react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> &nbsp&nbsp&nbsp 
+ <img align="center" alt="react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /> &nbsp&nbsp&nbsp
+                   
  ***
  
  #### Aprendendo...
